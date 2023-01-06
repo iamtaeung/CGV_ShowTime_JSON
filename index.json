@@ -1,0 +1,12 @@
+{
+    "gangnam":[
+        {
+            "title":"영웅",
+            "age":"12",
+            "playTime":"120분",
+            "dim":"2D",
+            "place":"1관 6층",
+            "totalSeat":"총 158석"
+        }
+    ]
+}
